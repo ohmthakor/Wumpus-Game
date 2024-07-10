@@ -71,8 +71,11 @@ Confirm correct percepts are displayed.
 Error Handling
 Validate inputs for grid size and movement commands.
 Ensure program stability and prevent memory leaks using tools like Valgrind and GDB.
-Test Cases
-Input	Expected Output
+
+Test Cases:
+
+Input and expected outputs
+
 w	-- Moves up
 a -- Moves left
 s -- Moves down
