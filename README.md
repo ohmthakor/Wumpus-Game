@@ -77,14 +77,23 @@ Test Cases:
 Input and expected outputs
 
 w	-- Moves up
+
 a -- Moves left
+
 s -- Moves down
+
 d	-- Moves right
+
 W	-- Invalid input
+
 A	-- Invalid input
+
 S	-- Invalid input
+
 D	-- Invalid input
+
 Length input: 3	-- Length is set to 3
+
 Width input: 4	-- Width is set to 4
 
 Compilation and Execution:
