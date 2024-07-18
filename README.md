@@ -1,10 +1,10 @@
-#Hunt the Wumpus - README
+# Hunt the Wumpus 
 
-Overview
+## Overview
 
 Hunt the Wumpus is a text-based adventure game set in a cave with a customizable grid. The player begins in a random empty room, which also serves as the exit to win the game. The goal is to either kill the Wumpus and successfully exit or collect the gold and successfully exit. Various events and obstacles in the cave add challenges and excitement to the gameplay.
 
-Features
+## Features
 
 Customizable cave grid: Each game features a unique cave grid with different room layouts based on user input.
 Events: Rooms can contain stalactites, super bats, gold, or a Wumpus.
@@ -61,7 +61,7 @@ Stalactites: S
 Escape Rope: ER
 Testing and Debugging
 
-Setup Testing
+## Setup Testing
 Print map in debugging mode to verify proper setup.
 Check if events are correctly placed in the grid.
 Feature Testing
@@ -98,7 +98,7 @@ Width input: 4	-- Width is set to 4
 
 Compilation and Execution:
 
-Compile the code:
+## Compile the code:
 sh
 Copy code
 make
